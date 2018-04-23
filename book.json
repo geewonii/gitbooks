@@ -1,0 +1,10 @@
+{
+  "gitbook":"3.2.3",
+  "title":"学习笔记",
+  "author":"geewonii",
+  "language": "zh-Hans",
+  "plugins":[
+      "sectionx",
+      "expandable-chapters"
+  ]
+}
