@@ -24,14 +24,8 @@ Gitbook 是基于 Node.js 的命令行工具，用来创建漂亮的电子书，
 <pre><code>gitbook install</code></pre>
 4.创建README.md 和 SUMMARY.md:
 <pre><code>gitbook init</code></pre>
-5.在你的作品目录中创建两个必需的文件 README.md 和 SUMMARY.md，README.md 是作品的介绍，SUMMARY.md 是作品的目录结构，里面要包含一个章节标题和文件索引的列表：
-<pre><code># Summary
- * [section 1](section1/README.md)
-     * [example 1](section1/example1.md)
-     * [example 2](section1/example2.md)
- * [section 2](section2/README.md)
-     * [example 1](section2/example1.md)
-</code></pre>
+5.在你的作品目录中创建两个必需的文件 README.md 和 SUMMARY.md，README.md 是作品的介绍，SUMMARY.md 是作品的目录结构，里面要包含一个章节标题和文件索引的列表:
+<pre><code></code></pre>
 6.运行服务，在编辑内容保存后实时预览：
 <pre><code>gitbook serve</code></pre>
 7.撰写完后可以生成静态网站用来发布：

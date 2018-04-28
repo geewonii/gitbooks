@@ -2,8 +2,9 @@
   "gitbook":"3.2.3",
   "title":"学习笔记",
   "author":"geewonii",
-  "language": "zh-Hans",
+  "language": "zh-CN",
   "plugins":[
+      "yahei",
       "sectionx",
       "expandable-chapters"
   ]
