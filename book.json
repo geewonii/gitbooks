@@ -4,8 +4,16 @@
   "author":"geewonii",
   "language": "zh-CN",
   "plugins":[
+      "-search",
       "yahei",
       "sectionx",
-      "expandable-chapters"
-  ]
+      "expandable-chapters",
+      "expandable-chapters-interactive",
+      "fontsettings",
+      "mdinhtml",
+      "ace",
+      "emphasize",
+      "sharing"
+  ],
+  "pluginsConfig": {}
 }
